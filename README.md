@@ -20,4 +20,10 @@ BLENDER
 
 -Tutorial6: 9,25
 
+Para compilar los archivos de OpenGL usar el comando:
+
+    gcc nombrearchivo.c -lGL -lglut
+    gcc nombrearchivo.c -o nombrejecutable -lGL -lgul
+
+
  
